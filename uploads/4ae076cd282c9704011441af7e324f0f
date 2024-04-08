@@ -1,0 +1,4 @@
+﻿name,sku,description,product_sub_category_id,product_brand_id,quantity,purchase_price,sale_price,unit_type,reorder_quantity,unit_measurement
+car,as1dgq,new product,1,london,200,1.5,3.18,pc,10,10
+bike,as1dgqn,new product,1,usa,200,1.5,3.18,pc,10,10
+truck,as1dgqo,new product,1,cannda,200,1.5,3.18,pc,10,10

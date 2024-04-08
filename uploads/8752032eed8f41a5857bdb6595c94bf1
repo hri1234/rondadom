@@ -1,0 +1,4 @@
+﻿name,sku,description,Location,product_brand_id,quantity,purchase_price,sale_price,unit_type,reorder_quantity,unit_measurement
+W-001,as1dgq,Rear Wheel,London,london,1,1.5,3.18,pc,10,EACH
+w-002,as1dgqn,Front Wheel,USA,usa,2,1.5,3.18,pc,10,EACH
+F-001,as1dgqo,Frame,UK,cannda,5,1.5,3.18,pc,10,EACH

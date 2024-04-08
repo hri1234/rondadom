@@ -1,0 +1,4 @@
+﻿"name","sku","description","product_sub_category_id","product_brand_id","quantity","purchase_price","sale_price","unit_type","reorder_quantity","unit_measurement"
+"product m","as1dgq","new product","1","1","200","1.5","3.18","pc","10","10"
+"product n","as1dgqn","new product","1","1","200","1.5","3.18","pc","10","10"
+"product o","as1dgqo","new product","1","1","200","1.5","3.18","pc","10","10"
